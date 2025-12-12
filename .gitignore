@@ -17,6 +17,8 @@
 outputs/
 checkpoints/*
 !checkpoints/README.md
+data/*
+IFLOW.md
 
 # Data types
 *.jit
